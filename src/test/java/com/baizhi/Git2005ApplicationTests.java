@@ -8,6 +8,7 @@ class Git2005ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("教师网真TM慢");
     }
 
 }
